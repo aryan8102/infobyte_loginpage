@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601842383699",
+    "project_id": "pingo-cd60b",
+    "storage_bucket": "pingo-cd60b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601842383699:android:f32868d42346e50927ffa6",
+        "android_client_info": {
+          "package_name": "com.example.rajafsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601842383699-p1rjq2cnsj0kl2s0vjlqtb4og5a8q8s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVxsLJbvU7GJJlQ1RPWlOoLPx3PHYbqr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601842383699-p1rjq2cnsj0kl2s0vjlqtb4og5a8q8s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
